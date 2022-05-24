@@ -1,6 +1,7 @@
 # W3F Grant Proposal
 
 - **Project Name:** Lootmogul
+-  **Team Name:** Lootmogul
 - **Payment Address:**  (ERC20 USDT)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
@@ -8,11 +9,24 @@
 
 ### Overview
 
+LootMogul is an influencer-led sports metaverse gaming platform powered by exclusive properties (Lands, Stadium, Arenas, etc.), NFTs, and token rewards for the fans and business community.
 
+There are three key stakeholders in the Lootmogul community:
+
+Sports athletes (influencers) engage with their fans in local stadiums, arenas, playgrounds, etc. through multiplayer blockchain sports games (basketball, football, soccer, baseball, pickleball, etc.) and In-Real-Life (IRL) rewards (Shoes, fitness wear, event ticket & passes, etc.)
+Fans enjoy an immersive experience with influencers by playing games with sports athletes' avatars, forming dream teams (ex. Larry Bird playing against Shaq), and competing at a global level.
+Land Owners earn revenue from ticket sales, game revenue, NFT revenue, and brand sponsorship.
+LootMogul has first mover advantage in this fast-growing $800B industry and has partnered with more than 120 professional athletes from NBA, NFL, MLB, eSports, ICC, etc., and 1.5M+ high-school and college athletes.
+
+LootMogul is expanding the web3 community by bringing web 2 gamers and sports fanatics to the metaverse with a play-to-earn model, real-world perks, experiences, and NFT collections.
+
+LootMogul community - https://www.instagram.com/lootmogul/
+
+Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto companies and web 2 traditional equity venture funds - Harmony, PowerHouse Ventures, BCT, and u2poia with grants from Polygon and Sandbox. Our new investment round is being led by Woodstock, SL2Capital, Animoca Brands, and many others.
 
 ### Project Details
 
-![AdMeta Demo - the floating billboard](https://user-images.githubusercontent.com/4738254/144754078-1877d8a5-8ef9-49ec-8ef5-f79496a689f0.png)
+![AdMeta Demo - the floating billboard](https://lootmogul.com/_next/image?url=https%3A%2F%2Fmedia-content.lootmogul.com%2FBanner_Leslie_f5067fba54_96a5e90ed9.webp&w=3840&q=75)
 
 
 
