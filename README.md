@@ -1,7 +1,6 @@
 # W3F Grant Proposal
 
 - **Project Name:** Lootmogul
-- **Team Name:** 
 - **Payment Address:**  (ERC20 USDT)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
