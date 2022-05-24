@@ -188,7 +188,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 |     4. | Web App                     | We will create a web app, to let users easily interact with our substrate node. Users can claim rewards from viewing and clicking ads, and they can also configure their ad preferences and decide if they are willing to view ads or not.                                                                     |
 
 ### Development roadmap
-- Polkadot integration - (you define period):
+- Polkadot integration 
 - Game development - (Q3, Q4)
 - Backend platform enhancement
 - Cross platform (blockchain) integration
