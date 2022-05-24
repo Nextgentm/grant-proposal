@@ -26,7 +26,7 @@ Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto compani
 
 ### Project Details
 
-![AdMeta Demo - the floating billboard](https://lootmogul.com/_next/image?url=https%3A%2F%2Fmedia-content.lootmogul.com%2FBanner_Leslie_f5067fba54_96a5e90ed9.webp&w=3840&q=75)
+![Lootmogul Demo - Build your own metaverse land](https://lootmogul.com/_next/image?url=https%3A%2F%2Fmedia-content.lootmogul.com%2FCreate_Land_2_1440x600_dc8b092056_095d617610.webp&w=3840&q=75)
 
 
 
