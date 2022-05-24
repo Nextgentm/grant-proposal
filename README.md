@@ -54,10 +54,15 @@ Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto compani
 ### Team members (In order of joining time)
 
 Raj RajKotia
+
 Kuntal Sampat
+
 Nilesh Sukalikar
+
 Corsley Edwards
+
 Harshit Kashiv
+
 Vibhu Sirvastava
 
 ### Contact
