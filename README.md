@@ -74,8 +74,9 @@ Vibhu Sirvastava - Community Management
 
 ### Contact
 
-- **Contact Name:** 
-- **Contact Email:**support@lootmogul.com
+- **Contact Name:** Raj Rajkotia / Kuntal Sampat
+- **Contact Email:** raj@lootmogul.com / kuntal.sampat@lootmogul.com
+- **Address:** HQ: 3301 Ocean Park Blvd, Unit 205, Santa Monica, CA 90405
 - **Website:** https://lootmogul.com/
 
 ### Legal Structure
