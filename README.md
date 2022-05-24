@@ -53,7 +53,12 @@ Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto compani
 
 ### Team members (In order of joining time)
 
-
+Raj RajKotia
+Kuntal Sampat
+Nilesh Sukalikar
+Corsley Edwards
+Harshit Kashiv
+Vibhu Sirvastava
 
 ### Contact
 
@@ -90,11 +95,14 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 - https://github.com/Shihao66 Shihao Zhao
 - https://github.com/Moehringen Hao Ding
 
-### Team LinkedIn Profiles (if available)
+### Team LinkedIn Profiles
 
-- https://www.linkedin.com/in/zhaohan6
-- https://www.linkedin.com/in/shihao-zhao-55752685/
-- https://www.linkedin.com/in/hao-ding-msc-pmp-64411193/
+- https://www.linkedin.com/in/rajkotia/
+- https://www.linkedin.com/in/kuntalsampat/
+- https://www.linkedin.com/in/nilesh-s-700583102/
+- https://www.linkedin.com/in/corsley-edwards-12925b2a/
+- https://www.linkedin.com/in/harshitkashiv/
+- https://www.linkedin.com/in/vibhu-srivastava-a577a127/
 
 ## Development Status :open_book:
 
