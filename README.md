@@ -38,9 +38,12 @@ Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto compani
 
 #### Technology Stack
 
-- Substrate
+- React
+- React-native
 - Node.js
 - 3D Model Design
+- Polygon Matic
+- Strapi CMS
 
 ### Ecosystem Fit
 
