@@ -11,7 +11,7 @@
 
 LootMogul takes care of all the favourite online game preferences! From mesmerizing Multiverse experiences and competitive Trivia to engaging cash games and exclusive NFTs, LootMogul has it all!
 
-LootMogul is an influencer-led crypto, NFT,  gaming & metaverse community where influencers engage with their fans using multiplayer sports games.
+LootMogul is a multiverse blockchain gaming platform for sports influencers and fans to engage. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, lootmogul has 112 sports athletes signed up under a two year contract and a total reach of 65 Million people. 
 
 ### Project Details
 
@@ -102,15 +102,10 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 
 ### Team Code Repos
 
-- https://github.com/litentry/litentry-parachain
-- https://github.com/litentry/litentry-pallets
-- https://github.com/web3go-xyz/web3go
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- https://github.com/h4n0 Han Zhao
-- https://github.com/Shihao66 Shihao Zhao
-- https://github.com/Moehringen Hao Ding
+- https://github.com/Nextgentm/lootmogul-mobile
+- https://github.com/Nextgentm/quizsocketserver
+- https://github.com/Nextgentm/gameplatform-cms
+- https://github.com/Nextgentm/lootmogul-web
 
 ### Team LinkedIn Profiles
 
@@ -197,7 +192,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Future Plans
 
-The next step is to have sensitive data stored in TEE. Also, we will build more ad types, like click ads and acquisition/action ads. Meanwhile, we will implement a Chrome extension to simplify the claim process, and an Ad asset on Decentraland(or other Metaverse platform) to enable land holders to use our ad assets conveniently.
+The metaverse is the next evolution of social space and connection. Lootmogul's vision is to help bring the metaverse to life, so we are building sport stadiums in 3D spaces which will let you socialize, learn, collaborate and play in such ways that go beyond what we can ever imagine.
 
 In a long run, we will cooperate and adapt our products with more Metaverse platforms, and also we will develop more creative and interactive ad types.
 
