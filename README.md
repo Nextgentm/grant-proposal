@@ -158,30 +158,22 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 
 ## Development Roadmap :nut_and_bolt:
 
-### Overview
-
-- **Total Estimated Duration:** 1 months
-- **Full-Time Equivalent (FTE):** 2 FTE
-- **Total Costs:** 12,000 USD
-
 ### Milestone 1 — Substrate Chain with Impression Ad, Web App
 
-
-- **Estimated duration:** 6 month
+- **Estimated duration:** 6 months
 - **FTE:** 2
 - **Costs:** 12,000 USD
 
-| Number | Deliverable                 | Specification                                                                                                                                                                                                                                                                                                  |
+| Number | Milestone                 | Key Activities                                                                                                                                                                                                                                                                                                  |
 | -----: | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    0a. | License                     | GPLv3                                                                                                                                                                                                                                                                                                          |
-|    0b. | Documentation               | We will provide both **inline documentation** of the code and a basic **tutorial** that explains how a user can (for example) spin up one of our Substrate nodes and send test transactions, which will show how the new functionality works.                                                                  |
-|    0c. | Testing Guide               | Core functions will be fully covered by unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests.                                                                                                                                                              |
-|    0d. | Docker                      | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone.                                                                                                                                                                                                  |
-|    0e. | Article                     | We will publish an **article**/workshop that explains our advertising workflow as well as technical details.                                                                                                                                                                                                   |
-|     1. | Substrate module: ad        | We will create a Substrate module that will allow advertiser to create impression ads, and with council's approval, this ad will be ready to be displayed. If ads are rejected by the council(e.g. illegal or pornographic content), the advertiser's proposal bond will be slashed and collected in treasury. |
-|     2. | Substrate module: user mock | We will create a Substrate module that will first store users data on chain, to test and verify our logic. Also, user can update their data, control what data should be used, and these data are used to find the best matching ad for user.                                                                  |
-|     3. | Substrate chain             | Module ad and user can be integrated into a substrate node, to enable users access of all approved ads, receive rewards, etc. This chain will integrate treasury, council, democracy and also other essential pallets, to build a full-featured blockchain.                                                    |
-|     4. | Web App                     | We will create a web app, to let users easily interact with our substrate node. Users can claim rewards from viewing and clicking ads, and they can also configure their ad preferences and decide if they are willing to view ads or not.                                                                     |
+|    1. | Core Foundation and Infrastructure Setup                     |  * GitHub/Lab Klaytn dev branch & configure supporting APIs.                                                                    * Finalize requirements with internal game developers & KOL                                                                                                                                                                                                                                                                                                   |
+|    2. | Smart Contract libraries for NFT Marketplace               | * Ability to mint meta NFTs using Klaytn. * Ability to set royalty, pricing, KOL & guild specific tracking on Klaytn                                                          |
+|    3. | Stablecoin integration with Klaytn               | * Stable coin transaction for game in-app purchases. * Stable coin integration for all metaverse NFT and land sale                                                                                                                                 |
+|    4. | Browser extension of Kaikas wallet                      | * Web 3 integration for the Kaikas wallet.  * NFT/Meta/Game transaction authorization and wallet tracking                                                                                                                                                                                                |
+|    5. | Fractional stadium and land ownership                     | * Integrate in-game fractional NFT ownership. * Integrate stadium fractional ownership                                                                                                                                |
+|     6. | Proof of contribution platform integration        | * Evaluate all possible proof of contribution integration for LootMogul. * Select specific paths for metaverse and in-game staking/rewards mechanics |
+|     7. | Game development and Guild integration | * Selective on chain transactions migrations for game dev. * Integrate scholar/community managers rewards for Guilds                                                                  |
+|     8. | Final Release            | * Final integration & regression testing. * Early access to scholars/KOL and full production release                                                    |
 
 ### Development roadmap
 - Polkadot integration 
