@@ -149,12 +149,12 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 
 
 
-## Development Status :open_book:
+<!-- ## Development Status :open_book:
 
-- https://github.com/AdMetaNetwork/admeta This is the AdMeta Substrate chain implementation. We already started to build the pallets mentioned in Milestone 1 below.
-- https://github.com/AdMetaNetwork/admeta-webapp This is our web app repo according to Milestone 1. We already had a single page app with polkadot js API integrated now.
+- https://lootmogul.com/metaverse This is metaverse implementaion for stadium landsale with momento360 view.
+- https://lootmogul.com/ This is our web app repo according to Milestone 1. We already had a single page app with polkadot js API integrated now.
 - https://github.com/AdMetaNetwork/admeta-decentraland This is a simple asset built with Decentraland SDK, and currently it's just for a demo purpose.
-- https://admeta.network/ We also have the first version of our website.
+- https://admeta.network/ We also have the first version of our website. -->
 
 ## Development Roadmap :nut_and_bolt:
 
