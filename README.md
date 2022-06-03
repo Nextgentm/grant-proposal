@@ -158,7 +158,7 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 
 ## Development Roadmap :nut_and_bolt:
 
-### Milestone 1 — Substrate Chain with Impression Ad, Web App
+### Milestone 1 — Implementing NFT, metaverse using polkadot blockchain.
 
 - **Estimated duration:** 6 months
 - **FTE:** 2
