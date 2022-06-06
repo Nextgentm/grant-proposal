@@ -36,7 +36,7 @@ Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto compani
 
 #### Architecture
 
-![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/Server%20Architecture.png?raw=true)
+![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
 
 
