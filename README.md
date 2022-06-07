@@ -24,9 +24,12 @@ There are three key stakeholders in the Lootmogul community:
 **Fans** enjoy an immersive experience with influencers by playing games with sports athletes' avatars, forming dream teams (ex. Larry Bird playing against Shaq), and competing at a global level.
 
 **Land Owners** earn revenue from ticket sales, game revenue, NFT revenue, and brand sponsorship.
+
 LootMogul has first mover advantage in this fast-growing $800B industry and has partnered with more than 120 professional athletes from NBA, NFL, MLB, eSports, ICC, etc., and 1.5M+ high-school and college athletes.
 
 LootMogul is expanding the web3 community by bringing web 2 gamers and sports fanatics to the metaverse with a play-to-earn model, real-world perks, experiences, and NFT collections.
+
+Companies or Gaming guilds can own or lease NFT stadiums, seats, banners, celebrity avatars, game power, wearables etc. for their community and scholars at 25% to 75% discount with 4% APY during the pre-sale events and mega launch parties such as NBA all-star weekend, NFL Superbowl, World Championship etc.
 
 LootMogul community - https://www.instagram.com/lootmogul/
 
