@@ -33,7 +33,7 @@ Companies or Gaming guilds can own or lease NFT stadiums, seats, banners, celebr
 
 LootMogul community - https://www.instagram.com/lootmogul/
 
-Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto companies and web 2 traditional equity venture funds - Harmony, PowerHouse Ventures, BCT, and u2poia with grants from Polygon and Sandbox.
+Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto companies and web 2 traditional equity venture funds - Harmony, PowerHouse Ventures, BCT, and u2poia with grants from Polygon and Sandbox. Our token round of investments are going to be lead by Woodstock, SL2 Capital, Animoca Brands and others.
 
 #### Architecture
 
