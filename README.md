@@ -119,7 +119,8 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 
 ### Brand Ambassadors and Advisors
 
-- Manish Agarwal, CEO of Nazara Games and Tim Tello, COO of POQ
+- Manish Agarwal, CEO of Nazara Games 
+- Tim Tello, COO of POQ
 - Lisa Leslie
 - Angela Weathers
 - Rick Berry
