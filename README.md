@@ -9,9 +9,7 @@
 
 ### Overview
 
-LootMogul takes care of all the favourite online game preferences! From mesmerizing Multiverse experiences and competitive Trivia to engaging cash games and exclusive NFTs, LootMogul has it all!
-
-LootMogul is a multiverse blockchain gaming platform for sports influencers and fans to engage. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, lootmogul has 112 sports athletes signed up under a two year contract and a total reach of 65 Million people. 
+LootMogul is a multiverse blockchain gaming platform for sports influencers and fans to engage. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, lootmogul has 180 sports athletes signed up under a two year contract and a total reach of 65 Million people. 
 
 ### Project Details
 
@@ -116,9 +114,9 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 - https://www.linkedin.com/in/harshitkashiv/
 - https://www.linkedin.com/in/vibhu-srivastava-a577a127/
 
-### Brand Ambassadors
+### Brand Ambassadors and Advisors
 
-- Manish Agarwal
+- Manish Agarwal, CEO of Nazara Games and Tim Tello, COO of POQ
 - Lisa Leslie
 - Angela Weathers
 - Rick Berry
@@ -161,8 +159,8 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 ### Milestone 1 — Implementing NFT, metaverse using polkadot blockchain.
 
 - **Estimated duration:** 6 months
-- **FTE:** 2
-- **Costs:** 12,000 USD
+- **FTE:** 2 to 4 developers
+- **Costs:** 120,000 USD
 
 | Number | Milestone                 | Key Activities                                                                                                                                                                                                                                                                                                  |
 | -----: | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
