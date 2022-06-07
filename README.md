@@ -3,7 +3,7 @@
 - **Project Name:** Lootmogul
 -  **Team Name:** Lootmogul
 - **Payment Address:**  (ERC20 USDT)
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
+- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3
 
 ## Project Overview :page_facing_up:
 
