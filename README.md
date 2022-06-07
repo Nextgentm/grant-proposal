@@ -163,7 +163,7 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 ### Milestone 1 — Implementing NFT, metaverse using polkadot blockchain.
 
 - **Estimated duration:** 6 months
-- **FTE:** 2 to 4 developers
+- **FTE:** 4 to 5 developers
 - **Costs:** 120,000 USD
 
 | Number | Milestone                 | Key Activities                                                                                                                                                                                                                                                                                                  |
