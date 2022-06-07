@@ -9,7 +9,7 @@
 
 ### Overview
 
-LootMogul is a multiverse blockchain gaming platform for sports influencers and fans to engage. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, lootmogul has 180 sports athletes signed up under a two year contract and a total reach of 65 Million people. 
+**LootMogul** is a multiverse blockchain gaming platform for sports influencers and fans to engage. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, lootmogul has 180 sports athletes signed up under a two year contract and a total reach of 65 Million people. 
 
 ### Project Details
 
