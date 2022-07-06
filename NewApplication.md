@@ -47,6 +47,7 @@ Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto compani
 - Node.js
 - ink
 - Rust 
+- Substrate
 
 ### Ecosystem Fit
 
