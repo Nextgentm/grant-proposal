@@ -13,7 +13,7 @@
 
 ### Project Details
 
-![Lootmogul Demo - Build your own metaverse land](https://lootmogul.com/_next/image?url=https%3A%2F%2Fmedia-content.lootmogul.com%2FCreate_Land_2_1440x600_dc8b092056_095d617610.webp&w=3840&q=75)
+![Lootmogul Demo - Build your own metaverse land](https://github.com/nilesh-sukalikar/image-storage/blob/main/new-metaverse-3.jpg?raw=true)
 
 LootMogul is an influencer-led sports metaverse gaming platform powered by exclusive properties (Lands, Stadium, Arenas, etc.), NFTs, and token rewards for the fans and business community.
 
