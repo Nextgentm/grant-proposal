@@ -1,4 +1,4 @@
-# W3F Grant Proposal
+# Grant Proposal
 
 - **Project Name:** Lootmogul
 -  **Team Name:** Lootmogul
@@ -154,13 +154,13 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 <!-- ## Development Status :open_book:
 
 - https://lootmogul.com/metaverse This is metaverse implementaion for stadium landsale with momento360 view.
-- https://lootmogul.com/ This is our web app repo according to Milestone 1. We already had a single page app with polkadot js API integrated now.
+- https://lootmogul.com/ This is our web app repo according to Milestone 1. We already had a single page app with XRP js API integrated now.
 - https://github.com/AdMetaNetwork/admeta-decentraland This is a simple asset built with Decentraland SDK, and currently it's just for a demo purpose.
 - https://admeta.network/ We also have the first version of our website. -->
 
 ## Development Roadmap :nut_and_bolt:
 
-### Milestone 1 — Implementing NFT, metaverse using polkadot blockchain.
+### Milestone 1 — Implementing NFT, metaverse using XRP blockchain.
 
 - **Estimated duration:** 6 months
 - **FTE:** 4 to 5 developers
@@ -173,17 +173,17 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 |    0c. | Testing Guide               | Unit testing will be applied to ensure reliability. Documentation of tests and results will be provided                                                                                                                      |
 |    0d. | Video                      | We will provide a video demonstration that will illustrate all of the functionality delivered with this milestone.                                                                                                                                                                                                  |
 |    0e. | Article                     | We will publish an **article**/workshop/gitbook that explains our application workflow as well as technical details.                                                                                                                                                                                                   |
-|    1. | Core Foundation and Infrastructure Setup                     |  * GitHub/Lab Polkadot dev branch & configure supporting APIs. <br />                                                                    * Finalize requirements with internal game developers & KOL                                                                                                                                                                                                                                                                                                   |
-|    2. | Smart Contract libraries for NFT Marketplace               | * Ability to mint meta NFTs using Polkadot.<br /> * Ability to set royalty, pricing, KOL & guild specific tracking on Polkadot                                                          |
-|    3. | Stablecoin integration with Polkadot               | * Stable coin transaction for game in-app purchases. <br /> * Stable coin integration for all metaverse NFT and land sale                                                                                                                                 |
+|    1. | Core Foundation and Infrastructure Setup                     |  * GitHub/Lab XRP dev branch & configure supporting APIs. <br />                                                                    * Finalize requirements with internal game developers & XRP                                                                                                                                                                                                                                                                                                   |
+|    2. | Smart Contract libraries for NFT Marketplace               | * Ability to mint meta NFTs using XRP.<br /> * Ability to set royalty, pricing, XRP & guild specific tracking on XRP                                                          |
+|    3. | Stablecoin integration with XRP               | * Stable coin transaction for game in-app purchases. <br /> * Stable coin integration for all metaverse NFT and land sale                                                                                                                                 |
 |    4. | Browser extension of Kaikas wallet                      | * Web 3 integration for the Kaikas wallet. <br />  * NFT/Meta/Game transaction authorization and wallet tracking                                                                                                                                                                                                |
 |    5. | Fractional stadium and land ownership                     | * Integrate in-game fractional NFT ownership. <br /> * Integrate stadium fractional ownership                                                                                                                                |
 |     6. | Proof of contribution platform integration        | * Evaluate all possible proof of contribution integration for LootMogul. <br /> * Select specific paths for metaverse and in-game staking/rewards mechanics |
 |     7. | Game development and Guild integration | * Selective on chain transactions migrations for game dev. <br /> * Integrate scholar/community managers rewards for Guilds                                                                  |
-|     8. | Final Release            | * Final integration & regression testing. <br /> * Early access to scholars/KOL and full production release                                                    |
+|     8. | Final Release            | * Final integration & regression testing. <br /> * Early access to scholars/XRP and full production release                                                    |
 
 ### Development roadmap
-- Polkadot integration 
+- XRP integration 
 - Game development - (Q3, Q4)
 - Backend platform enhancement
 - Cross platform (blockchain) integration
